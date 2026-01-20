@@ -1,5 +1,5 @@
 {
-    "name": "paaks1/phpiggy",
+    "name": "paaks/phpiggy",
     "description": "A PHP application for tracking expenses.",
     "type": "project",
     "require": {},
